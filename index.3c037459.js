@@ -1,0 +1,2 @@
+new Swiper(".swiper",{initialSlide:0,slidesPerView:"auto",loop:!0,keyboard:{enabled:!0,onlyInViewport:!0,pageUpDown:!0},spaceBetween:15,mousewheel:{sensitivity:1,eventsTarget:".swiper"},watchOverflow:!0,initialSlide:1,breakpoints:{360:{sliderPerView:1,pagination:{el:".swiper-pagination"}},480:{sliderPerView:2},768:{sliderPerView:3},1024:{sliderPerView:3,pagination:{el:".swiper-pagination",type:"bullets"},mousewheel:{sensitivity:3,eventsTarget:".swiper"}}}});
+//# sourceMappingURL=index.3c037459.js.map
