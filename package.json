@@ -5,7 +5,9 @@
   "homepage": "https://Vitalina-O.github.io/lake-house",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /lake-house/"
+    "build": "parcel build src/*.html --public-url /lake-house/",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
