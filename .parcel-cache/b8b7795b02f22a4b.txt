@@ -122,7 +122,7 @@
 69D:\vitalina-o\lake-house\node_modules\caniuse-lite\data\regions\GF.js121436361000000000 0
 80D:\vitalina-o\lake-house\node_modules\svgo\plugins\removeUselessStrokeAndFill.js121436361000000000 0
 62D:\vitalina-o\lake-house\node_modules\fast-glob\out\index.d.ts121436361000000000 0
-37D:\vitalina-o\lake-house\package.json133221450545205324 0
+37D:\vitalina-o\lake-house\package.json133221457781602981 0
 49D:\vitalina-o\lake-house\node_modules\@jridgewell133221442045016883 1
 57D:\vitalina-o\lake-house\node_modules\yaml\browser\seq.js121436361000000000 0
 55D:\vitalina-o\lake-house\node_modules\terser\PATRONS.md121436361000000000 0
